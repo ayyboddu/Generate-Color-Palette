@@ -1,1 +1,1 @@
-# categorise-spotify-playlists
+# Generate Color Palette from an Image
